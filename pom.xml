@@ -65,11 +65,11 @@
 					<programs>
 						<program>
 							<mainClass>com.gpervukhin.demo.OneOffProcess</mainClass>
-							<name>oneoff</name>
+							<name>OneOffProcess</name>
 						</program>
 						<program>
 							<mainClass>com.gpervukhin.demo.WorkerProcess</mainClass>
-							<name>worker</name>
+							<name>WorkerProcess</name>
 						</program>
 					</programs>
 				</configuration>
